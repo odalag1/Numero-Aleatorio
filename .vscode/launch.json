@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "loop2",
+            "request": "launch",
+            "mainClass": "loop2",
+            "projectName": "2024.2_1f5ff3d1"
+        },
+        {
+            "type": "java",
+            "name": "Run atvd2",
+            "request": "launch",
+            "mainClass": "atvd2",
+            "projectName": "2024.2_1f5ff3d1"
+        },
+        {
+            "type": "java",
+            "name": "Run Aula20242",
+            "request": "launch",
+            "mainClass": "Aula20242",
+            "projectName": "2024.2_1f5ff3d1"
+        }
+    ]
+}
